@@ -1,6 +1,12 @@
 # Module-12---nosql-challenge
 Module 12 - nosql-challenge by William Fetter
 
+## Files for Submission
+
+The relevant files for the assignment are located within the main folder and are listed as 
+- "NoSQL_Analyis_Starter - Final.ipynb"
+- "NoSQL_Setup_Starter - Final.ipynb"
+
 ## Intro
 
 The UK Food Standards Agency evaluates various establishments across the United Kingdom, and gives them a food hygiene rating. You've been contracted by the editors of a food magazine, Eat Safe, Love, to evaluate some of the ratings data in order to help their journalists and food critics decide where to focus future articles.
@@ -52,5 +58,9 @@ Unless otherwise stated, for each question:
    Hint: You will need to compare the geocode to find the nearest locations. Search within 0.01 degree on either side of the latitude and longitude.
 4. How many establishments in each Local Authority area have a hygiene score of 0? Sort the results from highest to lowest, and print out the top ten local authority areas.
    Hint: You will need to use the aggregation method to answer this.
+
+## Resources:
+ - Class information and videos - for basics of coding and building foundation
+ - Stack overflow - for trouble shooting, and researching best code practices
 
   
