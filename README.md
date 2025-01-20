@@ -1,9 +1,14 @@
 # Module-12---nosql-challenge
 Module 12 - nosql-challenge by William Fetter
 
-## Files for Submission
+# Input Files
+The initial input files for the assignment are located within the "Starter_code" folder and are listed as:
+- "NoSQL_setup_starter.ipynb"
+- "NoSQL_analysis_starter.ipynb"
+- "/Resources/establishments.json"
 
-The relevant files for the assignment are located within the main folder and are listed as 
+# OutPut Files
+The resulting output files for the assignment are located within the main folder and are listed as:
 - "NoSQL_analysis_starter - Final.ipynb"
 - "NoSQL_setup_starter - Final.ipynb"
 
