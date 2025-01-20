@@ -4,8 +4,9 @@ Module 12 - nosql-challenge by William Fetter
 ## Files for Submission
 
 The relevant files for the assignment are located within the main folder and are listed as 
-- "NoSQL_Analyis_Starter - Final.ipynb"
-- "NoSQL_Setup_Starter - Final.ipynb"
+- "part_1_mars_news-final.ipynb"
+- "part_2_mars_weather-final.ipynb"
+- "mars_weather.csv"
 
 ## Intro
 
